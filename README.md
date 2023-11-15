@@ -56,5 +56,26 @@ Notes :
 - Le script utilise la commande `pwd` pour obtenir le répertoire courant.
 - Les changements seront affichés à mesure que les fichiers sont renommés.
 
+# del_suffix_nufi.py
+Voici une documentation du code fourni :
+
+
+Script de Renommage de Fichiers avec Suffixe "_nufi"
+
+Description :
+Ce script Python renomme tous les fichiers dans un répertoire en supprimant le suffixe "_nufi" de leurs noms. Le répertoire utilisé par défaut est le répertoire courant, mais vous pouvez spécifier un répertoire différent en modifiant la variable "repertoire_courant" dans le script.
+
+Utilisation :
+1. Placez le script dans le répertoire contenant les fichiers à renommer.
+2. Exécutez le script avec Python :
+   ```
+   python script.py
+   ```
+
+Notes :
+- Les fichiers dans le répertoire spécifié (ou le répertoire courant) seront renommés en supprimant le suffixe "_nufi" de leur nom d'origine.
+- Les changements seront affichés à mesure que les fichiers sont renommés.
+
+
 
 
