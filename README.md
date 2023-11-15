@@ -1,6 +1,5 @@
 # script_renommer_fichier.py
 
-```plaintext
 Script de Renommage de Fichiers
 
 Description :
@@ -27,4 +26,4 @@ Notes :
 - Les fichiers avec le suffixe '-min' dans leur nom seront renommés sans ce suffixe.
 - Les changements seront affichés à mesure que les fichiers sont renommés.
 
-```
+
