@@ -1,0 +1,19 @@
+Pour créer un tag dans Git et le pousser vers le référentiel distant, vous pouvez suivre ces étapes :
+
+### 1. Créer un tag localement :
+
+```bash
+git tag -a v1.0.0 -m "Description du tag"
+```
+
+Dans cette commande, `v1.0.0` est le numéro de version du tag que vous souhaitez créer. Vous pouvez personnaliser cela selon votre système de gestion de versions.
+
+### 2. Pousser le tag vers le référentiel distant :
+
+```bash
+git push origin v1.0.0
+```
+
+Assurez-vous de remplacer `v1.0.0` par le nom du tag que vous avez créé dans l'étape précédente.
+
+Après avoir exécuté ces commandes, le tag sera créé localement et poussé vers le référentiel distant. Cela peut être utile pour marquer des versions spécifiques de votre code source.
